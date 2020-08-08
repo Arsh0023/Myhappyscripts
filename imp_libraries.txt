@@ -1,0 +1,6 @@
+pandas
+requests
+beautiful soup
+selenium
+pyperclip
+pytz
